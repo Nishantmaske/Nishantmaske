@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nishant Maske</h1>
 <h3 align="center">A UI/UX Designer with react and java add on</h3>
 
-- 🌱 I’m currently learning **react, node-js, express js**
+- 🌱 I’m currently learning **react, Next.js, Three.js**
 
-- 💬 Ask me about **react, java, springboot**
+- 💬 Ask me about **react, Javascript**
 
 - 📫 How to reach me **nishantmaske321@gmail.com**
 
